@@ -1,0 +1,30 @@
+{
+  "name": "nightwatchjs",
+  "version": "1.0.0",
+  "description": "Accessibility NightwatchJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  
+  "keywords": [
+    "nightwatchjs",
+    "database",
+    "assertions",
+    "tutorial",
+    "youtube"
+  ],
+  
+  "author": "Nguyen Quoc Khanh",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chromedriver": "^123.0.4",
+    "nightwatch": "^2.6.21",
+    "nightwatch-mssql-assertions": "^2.1.5"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reallymello/nightwatchTutorials/databaseExample"
+  }
+}
